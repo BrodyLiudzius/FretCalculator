@@ -4,6 +4,6 @@ This program calculates the fret distances for a stringed instrument relative to
 
 ## Example Usage
 
-Below is a screenshot of the program running. I measured a 3/4 size classical guitar and its strings are 25.5 inches long, so I entered the number 25.5. Units don't matter. The output will be in the same units as what you put in. Currently it outputs answers to 3 decimal places, so it is best to use inches, centimeters, or millimeters
+Below is a screenshot of the program running. I measured a 3/4 size classical guitar and its strings are 25.5 inches long, so I entered the number 25.5. Units don't matter. The output will be in the same units as what you put in. By default, it outputs answers to 3 decimal places, so it is best to use inches, centimeters, or millimeters
 
 ![A screenshot of example output from running the program](./output.png)
